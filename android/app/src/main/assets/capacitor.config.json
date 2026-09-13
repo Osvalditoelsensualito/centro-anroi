@@ -1,0 +1,21 @@
+{
+	"appId": "com.centro.app",
+	"appName": "Centro",
+	"webDir": "www",
+	"backgroundColor": "#0A0C0F",
+	"android": {
+		"backgroundColor": "#0A0C0F",
+		"allowMixedContent": false
+	},
+	"plugins": {
+		"LocalNotifications": {
+			"smallIcon": "ic_stat_centro",
+			"iconColor": "#E3A857"
+		},
+		"SplashScreen": {
+			"launchShowDuration": 400,
+			"backgroundColor": "#0A0C0F",
+			"showSpinner": false
+		}
+	}
+}
